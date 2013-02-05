@@ -1,6 +1,6 @@
 # Toolbar.js
 
-A jQuery plugin that creates tooltip style toolbars.
+A jQuery plugin that creates tooltip style toolbars for store app.
 
 ## Documentation
 
